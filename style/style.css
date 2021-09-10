@@ -65,7 +65,7 @@ header {
 .mobilemenu {
     height: 1rem;
     width: 2rem;
-    background: url(/images/icon-hamburger.svg);
+    background: url(./images/icon-hamburger.svg);
     background-repeat: no-repeat;
     display: none;
 }
@@ -101,7 +101,7 @@ header {
 
 .hero-image{
     min-height: 40rem;
-    background-image: url(/images/bg-intro-desktop.svg);
+    background-image: url(./images/bg-intro-desktop.svg);
     background-position:left top;
     background-size: 120%;
     background-repeat: no-repeat;
